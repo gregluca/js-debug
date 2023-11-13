@@ -25,9 +25,10 @@ function addIfEven(num) {
     }
     return num;
 }
-addIfEven();
+addIfEven(2);
 // ESERICIZO 2 
 // ERRORE SINTASSI (MANCA IL DOPPIO UGUALE)
+// aggiungere numero addIfEven(2); 
 
 
 // ESERCIZIO 3
